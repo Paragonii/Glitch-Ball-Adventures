@@ -1,3 +1,3 @@
-# delete this if you are running this locally
-language="python3"
-run="python vvvvvv.py"
+# Delete if you aren't on replit
+language = "python3"
+run = "python vvvvvv.py"
