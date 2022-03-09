@@ -12,7 +12,7 @@ pygame.init()
 
 screenSize = [960, 640]
 screen = pygame.display.set_mode(screenSize)
-pygame.display.set_caption("VVVVVV")
+pygame.display.set_caption("Glitch Ball Adventures")
 pygame.display.set_icon(pygame.image.load("./assets/icon.png"))
 epstein_didnt_kill_himself = True
 clock = pygame.time.Clock()

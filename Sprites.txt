@@ -4,7 +4,7 @@ Most sprites are dynamic and change color/texture depending on the room's metada
 0-12	Ground tiles *^
 13-25	Background tiles *^
 26-29	Spikes (up, down, left, right) *^
-20-20	Player
+30-32	Player
 33-34	Checkpoint (off, on)
 35-36	Flipped checkpoint (off, on)
 37	Platform *
